@@ -6,12 +6,12 @@ public final class BasicPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        System.out.println("Basic plugin is ON!");
 
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        System.out.println("Basic plugin is OFF!");
     }
 }
