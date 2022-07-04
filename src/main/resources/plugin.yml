@@ -1,0 +1,7 @@
+name: Basic Plugin
+version: '${project.version}'
+main: basicplugin.basicplugin.BasicPlugin
+api-version: 1.19
+authors: [ De1v ]
+description: Basic commands, good for new servers.
+website: mr.de1v.eu
